@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CLASSIFICATION_USING_K_NEAREST_NEIGHBORS_ALGORITHM</RootNamespace>
+  </PropertyGroup>
+
+</Project>
